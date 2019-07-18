@@ -21,3 +21,9 @@ Our TV show dedicated to all things AGS Anarchist Party...
 ## Other important links
 
 Our page on the ags wiki...
+
+we also have a wiki on github: https://github.com/bernard-kuchipatchi/anarchist-party-website/wiki
+
+## edit our website
+
+https://github.com/bernard-kuchipatchi/anarchist-party-website/settings
