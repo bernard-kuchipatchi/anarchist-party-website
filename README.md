@@ -4,27 +4,18 @@ Anarchist Party of AmericanGovSim... Discord links...
 
 ## Important documents
 
-### Bylaws
+  * [Official Party Bylaws Page](/bylaws]
+  * Latest adopted/official platform: ...
 
-[Draft/source for suggestions you can make directly on the doc, plus leave comments](https://docs.google.com/document/d/1UbtdSbcBr8LB9eQoQRyrI5n28LCOc3fM52RsEU-VsLA/edit?usp=sharing)
+## Periodicals
 
-[Current Google Docs version of  current official bylaws](https://docs.google.com/document/d/15fSh9hOxoLnkA-5K8BPOcQBj5VhIuZqKv70jxzzwJ48/edit?usp=sharing)
+### Anarchist Chronicle
 
-Current PDF  official bylaws: ...
+Read our publication maintained by our Documentation Committee released every Sunday...
 
-[Official Bylaws Style Guide](https://docs.google.com/document/d/1ETXtdMZ_zD0IyewCNr19Lcx1izNtT69fs4aWulhGdlY/edit?usp=sharing)
+### Bernard War
 
-### Party platform
-
-Latest adopted/official platform: ...
-
-## Our publication
-
-View our publication maintained by our documentation committee released every sunday...
-
-## Bernard War
-
-Our TV show dedicated to all things AGS Anarchist Party...
+Our web TV show dedicated to all things AGS Anarchist Party...
 
 ## Other important links
 
