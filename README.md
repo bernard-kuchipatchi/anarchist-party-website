@@ -4,9 +4,15 @@ Anarchist Party of AmericanGovSim... Discord links...
 
 ## Important documents
 
-Latest adopted/official bylaws: ...
+### Bylaws
 
-Draft bylaws: ...
+[Draft/source for suggestions you can make directly on the doc, plus leave comments](https://docs.google.com/document/d/1UbtdSbcBr8LB9eQoQRyrI5n28LCOc3fM52RsEU-VsLA/edit?usp=sharing)
+
+[Current Google Docs version of  current official bylaws](https://docs.google.com/document/d/15fSh9hOxoLnkA-5K8BPOcQBj5VhIuZqKv70jxzzwJ48/edit?usp=sharing)
+
+Current PDF  official bylaws: ...
+
+### Party platform
 
 Latest adopted/official platform: ...
 
@@ -22,8 +28,8 @@ Our TV show dedicated to all things AGS Anarchist Party...
 
 Our page on the ags wiki...
 
-we also have a wiki on github: https://github.com/bernard-kuchipatchi/anarchist-party-website/wiki
+[we also have a wiki on github](https://github.com/bernard-kuchipatchi/anarchist-party-website/wiki)
 
 ## edit our website
 
-https://github.com/bernard-kuchipatchi/anarchist-party-website/settings
+[Edit our website on GitHub](https://github.com/bernard-kuchipatchi/anarchist-party-website/)
