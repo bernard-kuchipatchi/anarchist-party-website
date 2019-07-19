@@ -4,8 +4,8 @@ Anarchist Party of AmericanGovSim... Discord links...
 
 ## Important documents
 
-  * [Official Party Bylaws Page](/bylaws)
-  * [Latest adopted/official platform](https://docs.google.com/document/d/15pdzqBqEjHwSJTJAW5IywFPQjffCFR0GqsFC9h7ROjk/edit?usp=sharing)
+  * [Official party bylaws](/bylaws)
+  * [Official party platform](/platform)
 
 ## Periodicals
 
