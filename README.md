@@ -6,5 +6,5 @@ The Anarchist Party is a political party on AmericanGovSim on Discord.
 
 ## Our Constitution (Bylaws) and Values
 
-<script src="https://cdn.jsdelivr.net/npm/import-doc@0.0.3/dist/import-doc/import-doc.js"></script> <!–– Put between the head tags ––>
-<import-doc src="https://api.importdoc.com/document?id=zNSbqgXswuKPv9xKWETR"></import-doc> <!–– Put where you want the document to be ––>
+<script src="https://cdn.jsdelivr.net/npm/import-doc@0.0.3/dist/import-doc/import-doc.js"></script>
+<import-doc src="https://api.importdoc.com/document?id=zNSbqgXswuKPv9xKWETR"></import-doc>
